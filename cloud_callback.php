@@ -1,7 +1,5 @@
 <?php
-/*
-    方倍工作室原创，ZJL修改
-*/
+
 // 主程序MAIN()
 include_once "config.php";
 include_once "wechat.class.php";
