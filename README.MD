@@ -28,6 +28,7 @@ File list
 
 
 How to deploy this project：
+==============
 1. 配置Config.php运行环境参数
 2. 打包本项目成*.zip文件
 3. 上传到SAE云
