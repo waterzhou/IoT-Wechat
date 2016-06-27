@@ -101,7 +101,7 @@ class class_wechat_sdk
 	const MEDIA_UPLOADNEWS_URL = '/media/uploadnews?';
 	const MASS_SEND_URL = '/message/mass/send?';
 	const TEMPLATE_SET_INDUSTRY_URL = '/message/template/api_set_industry?';
-	const TEMPLATE_ADD_TPL_URL = '/message/template/api_add_template?';
+	const TEMPLATE_ADD_TPL_URL = '/template/api_add_template?';
 	const TEMPLATE_SEND_URL = '/message/template/send?';
 	const MASS_SEND_GROUP_URL = '/message/mass/sendall?';
 	const MASS_DELETE_URL = '/message/mass/delete?';
